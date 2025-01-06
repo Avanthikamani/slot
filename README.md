@@ -35,7 +35,7 @@ Execute the program using runserver command.
         </center>
         <br>        
         <center>
-            <b><font color="black" size="5">SLOT TIMETABLE-LORENA AVELYN R(24900089)</font></b>
+            <b><font color="black" size="5">SLOT TIMETABLE-LORENA M.Avanthika(24901279)</font></b>
         </center>
             <table align="center" border="2" cellpadding="4" bordercolor=" black" bgcolor="#e9e1fd">
                 <tr>
